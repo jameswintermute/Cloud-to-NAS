@@ -1,0 +1,8 @@
+# NAS destinations use standard SSH/rsync remote syntax:
+# user@host:/absolute/path
+#
+# Example destinations using documentation-only private network details:
+user@10.0.0.2:/volume1/user/Photographs/Personal
+user@10.0.0.2:/volume1/family/Photographs
+user@172.16.1.2:/volume1/Tools/import
+
